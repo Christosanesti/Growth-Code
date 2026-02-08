@@ -160,7 +160,7 @@ export default function Home() {
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">Meet Our Team</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              The talented individuals behind GrowthCode's success
+              The talented individuals behind GrowthCode&apos;s success
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -178,7 +178,7 @@ export default function Home() {
             Ready to Grow Your Digital Presence?
           </h2>
           <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
-            Let's work together to build and market your digital product until it
+            Let&apos;s work together to build and market your digital product until it
             becomes profitable.
           </p>
           <Button size="lg" variant="secondary" className="text-lg px-8">
