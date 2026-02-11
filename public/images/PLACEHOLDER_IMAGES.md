@@ -46,4 +46,3 @@ npm run dev
 ```
 
 The images will automatically appear in the team member cards. If an image is missing, the component will fall back to showing initials.
-

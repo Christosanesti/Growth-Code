@@ -5,12 +5,10 @@ This directory contains all images used in the GrowthCode website.
 ## Team Photos
 
 Place team member photos in the `team/` subdirectory with the following naming convention:
-- `alex-johnson.jpg` - CEO & Founder
-- `sarah-chen.jpg` - CTO & Lead Developer
-- `michael-rodriguez.jpg` - Head of Marketing
-- `emily-watson.jpg` - Creative Director
-- `david-kim.jpg` - Senior Developer
-- `lisa-anderson.jpg` - Marketing Strategist
+- `michelle-rodriguez.jpg` - Marketing Specialist
+- `nawid.jpg` - Software Engineer
+
+**Note:** Placeholder photos have been downloaded from Unsplash. Replace these with your actual team photos when ready.
 
 ## Image Requirements
 
